@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "./static/css/main.6fcacee7.css",
+    "main.js": "./static/js/main.4ecac04b.js",
+    "static/js/787.ba855225.chunk.js": "./static/js/787.ba855225.chunk.js",
+    "static/media/cover.jpg": "./static/media/cover.566a8a98beba6e417681.jpg",
+    "static/media/page_10.jpg": "./static/media/page_10.8376a932b7e540516aff.jpg",
+    "static/media/page_08.jpg": "./static/media/page_08.e2517f618a9dbca846f3.jpg",
+    "static/media/page_07.jpg": "./static/media/page_07.6d8b82c78d5193b69b24.jpg",
+    "static/media/page_01.jpg": "./static/media/page_01.964c3b878446111fa24a.jpg",
+    "static/media/page_02.jpg": "./static/media/page_02.53fd1d86cac2902ca784.jpg",
+    "static/media/page_04.jpg": "./static/media/page_04.de9a18738a93257248c0.jpg",
+    "static/media/page_06.jpg": "./static/media/page_06.83223356bd66b8b6218b.jpg",
+    "static/media/page_09.jpg": "./static/media/page_09.f4cc8d1ba0604e9758c4.jpg",
+    "static/media/Circe.woff": "./static/media/Circe.8da5582a5f6c40d4b70d.woff",
+    "static/media/driver2.svg": "./static/media/driver2.d312d915e7dce3eb331f6ae4af55153e.svg",
+    "static/media/driver1.svg": "./static/media/driver1.459a85e43da271ae1d8b30023a38bc9f.svg",
+    "static/media/hmarochos_logo_white.svg": "./static/media/hmarochos_logo_white.29a10c5af4ca183c2119468e193ecd79.svg",
+    "static/media/logo.svg": "./static/media/logo.0c6ab78f89ceecc9460f06d398029ad5.svg",
+    "index.html": "./index.html",
+    "main.6fcacee7.css.map": "./static/css/main.6fcacee7.css.map",
+    "main.4ecac04b.js.map": "./static/js/main.4ecac04b.js.map",
+    "787.ba855225.chunk.js.map": "./static/js/787.ba855225.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fcacee7.css",
+    "static/js/main.4ecac04b.js"
+  ]
+}
